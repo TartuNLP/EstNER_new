@@ -6,13 +6,13 @@
 					"words": [
 						{
 							"word": "Krista",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Aas",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -30,7 +30,7 @@
 						},
 						{
 							"word": "Soome",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -274,7 +274,7 @@
 						},
 						{
 							"word": "Eesti-Soome",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -308,7 +308,7 @@
 					"words": [
 						{
 							"word": "Aas",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -460,13 +460,13 @@
 						},
 						{
 							"word": "Krista",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Aas",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -534,7 +534,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -546,7 +546,7 @@
 						},
 						{
 							"word": "Soome",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -570,7 +570,7 @@
 						},
 						{
 							"word": "Aas",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -1026,7 +1026,7 @@
 						},
 						{
 							"word": "Aasa",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -1264,7 +1264,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -1884,7 +1884,7 @@
 						},
 						{
 							"word": "Soomes",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -1902,13 +1902,13 @@
 						},
 						{
 							"word": "2014.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastani",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -1936,7 +1936,7 @@
 					"words": [
 						{
 							"word": "Aas",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -2036,13 +2036,13 @@
 						},
 						{
 							"word": "1998.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastast",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -2156,7 +2156,7 @@
 						},
 						{
 							"word": "Aas",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -2206,7 +2206,7 @@
 					"words": [
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -2218,7 +2218,7 @@
 						},
 						{
 							"word": "Soome",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -2954,7 +2954,7 @@
 					"words": [
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -2966,7 +2966,7 @@
 						},
 						{
 							"word": "Soome",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -3014,13 +3014,13 @@
 						},
 						{
 							"word": "2004.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastast",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -3036,7 +3036,7 @@
 					"words": [
 						{
 							"word": "Euroopas",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -3096,7 +3096,7 @@
 						},
 						{
 							"word": "Eesti-Soome",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -3142,7 +3142,7 @@
 						},
 						{
 							"word": "Soome",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -3154,7 +3154,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -3354,7 +3354,7 @@
 						},
 						{
 							"word": "Eesti-Soome",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -3680,7 +3680,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4226,7 +4226,7 @@
 						},
 						{
 							"word": "Aafrikasse",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4272,7 +4272,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4284,7 +4284,7 @@
 						},
 						{
 							"word": "Soome",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4362,7 +4362,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4416,7 +4416,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4428,7 +4428,7 @@
 						},
 						{
 							"word": "Läti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4456,7 +4456,7 @@
 						},
 						{
 							"word": "Soome",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4468,7 +4468,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4558,7 +4558,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4570,7 +4570,7 @@
 						},
 						{
 							"word": "Läti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4768,7 +4768,7 @@
 						},
 						{
 							"word": "Soomes",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4850,7 +4850,7 @@
 						},
 						{
 							"word": "Soomest",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4868,7 +4868,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4968,7 +4968,7 @@
 						},
 						{
 							"word": "Austria",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -4986,7 +4986,7 @@
 						},
 						{
 							"word": "Šveitsiga",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -5252,7 +5252,7 @@
 						},
 						{
 							"word": "Eurojustist",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -5344,7 +5344,7 @@
 					"words": [
 						{
 							"word": "Mupo",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -5468,7 +5468,7 @@
 						},
 						{
 							"word": "Tallinnas",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -5634,7 +5634,7 @@
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -5748,7 +5748,7 @@
 						},
 						{
 							"word": "Kadriorgu",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -5760,7 +5760,7 @@
 						},
 						{
 							"word": "Toompead",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -6502,7 +6502,7 @@
 						},
 						{
 							"word": "munitsipaalpolitseil",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -6712,7 +6712,7 @@
 						},
 						{
 							"word": "munitsipaalpolitsei",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -6814,13 +6814,13 @@
 						},
 						{
 							"word": "Vabaduse",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "väljakut",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -7244,7 +7244,7 @@
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -8160,25 +8160,25 @@
 						},
 						{
 							"word": "politsei",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "pressiesindaja",
-							"ner_1": "I_TITLE",
+							"ner_1": "I-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Andres",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Sang",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -8320,25 +8320,25 @@
 						},
 						{
 							"word": "munitsipaalpolitsei",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "juhataja",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Raik",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Saart",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -8396,7 +8396,7 @@
 					"words": [
 						{
 							"word": "Tallinna",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -8580,7 +8580,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -8598,7 +8598,7 @@
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -9486,13 +9486,13 @@
 						},
 						{
 							"word": "Raekoja",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "platsil",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -10742,13 +10742,13 @@
 						},
 						{
 							"word": "Tartu",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Postimees",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -10902,7 +10902,7 @@
 						},
 						{
 							"word": "Tartu",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -11336,7 +11336,7 @@
 						},
 						{
 							"word": "Kiige",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -12370,7 +12370,7 @@
 					"words": [
 						{
 							"word": "Kiige",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -12626,31 +12626,31 @@
 					"words": [
 						{
 							"word": "Tartu",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Veevärgi",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "juhataja",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Toomas",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Kapp",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -12778,7 +12778,7 @@
 						},
 						{
 							"word": "Kapp",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -13056,7 +13056,7 @@
 						},
 						{
 							"word": "Kapp",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -13214,7 +13214,7 @@
 						},
 						{
 							"word": "Eestis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -13272,13 +13272,13 @@
 						},
 						{
 							"word": "veevärgi",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "juhataja",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -13512,7 +13512,7 @@
 					"words": [
 						{
 							"word": "Kapi",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -13686,31 +13686,31 @@
 					"words": [
 						{
 							"word": "Lõuna",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "prefektuuri",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "pressiesindaja",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Kristina",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Kostina",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -13898,7 +13898,7 @@
 						},
 						{
 							"word": "Kostina",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -14120,7 +14120,7 @@
 					"words": [
 						{
 							"word": "Kostina",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -14446,7 +14446,7 @@
 						},
 						{
 							"word": "Kostina",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -14572,49 +14572,49 @@
 					"words": [
 						{
 							"word": "Lubja",
-							"ner_1": "B_ORG",
-							"ner_2": "B_LOC",
+							"ner_1": "B-ORG",
+							"ner_2": "B-LOC",
 							"ner_3": "O"
 						},
 						{
 							"word": "tänava",
-							"ner_1": "I_ORG",
-							"ner_2": "I_LOC",
+							"ner_1": "I-ORG",
+							"ner_2": "I-LOC",
 							"ner_3": "O"
 						},
 						{
 							"word": "koduta",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "inimeste",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "varjupaiga",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "juhataja",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Viktor",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Karhu",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -14904,7 +14904,7 @@
 						},
 						{
 							"word": "Karhu",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -15050,7 +15050,7 @@
 						},
 						{
 							"word": "Karhu",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -15408,13 +15408,13 @@
 						},
 						{
 							"word": "Tartu",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Postimehele",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -15840,7 +15840,7 @@
 					"words": [
 						{
 							"word": "Postimees",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -15852,13 +15852,13 @@
 						},
 						{
 							"word": "5.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "augustil",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -15870,7 +15870,7 @@
 						},
 						{
 							"word": "olümpiamängude",
-							"ner_1": "B_EVENT",
+							"ner_1": "B-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16058,7 +16058,7 @@
 						},
 						{
 							"word": "Rios",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16112,19 +16112,19 @@
 						},
 						{
 							"word": "6.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "augusti",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "hommikul",
-							"ner_1": "B_TIME",
+							"ner_1": "B-TIME",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16160,7 +16160,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16206,19 +16206,19 @@
 						},
 						{
 							"word": "Rios",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "–13.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "augustini",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16264,13 +16264,13 @@
 						},
 						{
 							"word": "10.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "august",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16328,7 +16328,7 @@
 					"words": [
 						{
 							"word": "Postimees",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16364,13 +16364,13 @@
 						},
 						{
 							"word": "Rio",
-							"ner_1": "B_EVENT",
-							"ner_2": "B_GPE",
+							"ner_1": "B-EVENT",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "olümpial",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16462,13 +16462,13 @@
 						},
 						{
 							"word": "1896.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastal",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16544,13 +16544,13 @@
 						},
 						{
 							"word": "1900.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastast",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16632,25 +16632,25 @@
 						},
 						{
 							"word": "1976.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aasta",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Montreali",
-							"ner_1": "B_EVENT",
-							"ner_2": "B_GPE",
+							"ner_1": "B-EVENT",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "mängudel",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16696,13 +16696,13 @@
 						},
 						{
 							"word": "1996.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastast",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16760,7 +16760,7 @@
 						},
 						{
 							"word": "Ida-Saksamaa",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -16950,7 +16950,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -17008,13 +17008,13 @@
 					"words": [
 						{
 							"word": "2004.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastal",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -17032,13 +17032,13 @@
 						},
 						{
 							"word": "Jüri",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Jaanson",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -17056,7 +17056,7 @@
 						},
 						{
 							"word": "2008.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -17068,7 +17068,7 @@
 						},
 						{
 							"word": "Jaanson",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -17080,13 +17080,13 @@
 						},
 						{
 							"word": "Tõnu",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Endreksoniga",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -17162,13 +17162,13 @@
 						},
 						{
 							"word": "Elisabeta",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Lipa",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -17280,13 +17280,13 @@
 						},
 						{
 							"word": "Steve",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Redgrave",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -17372,25 +17372,25 @@
 						},
 						{
 							"word": "neljapaadi",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "liige",
-							"ner_1": "I_TITLE",
+							"ner_1": "I-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Kaspar",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Taimsoo",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19178,13 +19178,13 @@
 					"words": [
 						{
 							"word": "Rio",
-							"ner_1": "B_EVENT",
-							"ner_2": "B_GPE",
+							"ner_1": "B-EVENT",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "olümpial",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19208,7 +19208,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19230,13 +19230,13 @@
 					"words": [
 						{
 							"word": "Andrei",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Jämsä",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19248,13 +19248,13 @@
 						},
 						{
 							"word": "Allar",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Raja",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19266,13 +19266,13 @@
 						},
 						{
 							"word": "Tõnu",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Endrekson",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19284,13 +19284,13 @@
 						},
 						{
 							"word": "Kaspar",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Taimsoo",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19366,25 +19366,25 @@
 						},
 						{
 							"word": "neli",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastat",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tagasi",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Londonis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19548,7 +19548,7 @@
 						},
 						{
 							"word": "2012",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19560,7 +19560,7 @@
 						},
 						{
 							"word": "2016",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19596,7 +19596,7 @@
 						},
 						{
 							"word": "2011",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19648,7 +19648,7 @@
 						},
 						{
 							"word": "2015",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19696,7 +19696,7 @@
 						},
 						{
 							"word": "2012",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19820,19 +19820,19 @@
 						},
 						{
 							"word": "2012.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastal",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Belgradis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19844,19 +19844,19 @@
 						},
 						{
 							"word": "2015.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastal",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Luzernis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19924,7 +19924,7 @@
 						},
 						{
 							"word": "Austraalia",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19942,13 +19942,13 @@
 						},
 						{
 							"word": "Karsten",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Forsterling",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19960,13 +19960,13 @@
 						},
 						{
 							"word": "Alexander",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Belonogoff",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19978,13 +19978,13 @@
 						},
 						{
 							"word": "Cameron",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Girdlestone",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -19996,13 +19996,13 @@
 						},
 						{
 							"word": "James",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "McRae",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20072,19 +20072,19 @@
 						},
 						{
 							"word": "eelmise",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aasta",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "MMil",
-							"ner_1": "B_EVENT",
+							"ner_1": "B-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20096,7 +20096,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20126,19 +20126,19 @@
 						},
 						{
 							"word": "neli",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastat",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tagasi",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20150,13 +20150,13 @@
 						},
 						{
 							"word": "Londoni",
-							"ner_1": "B_EVENT",
-							"ner_2": "B_GPE",
+							"ner_1": "B-EVENT",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "OMil",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20366,7 +20366,7 @@
 						},
 						{
 							"word": "Saksamaa",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20408,19 +20408,19 @@
 						},
 						{
 							"word": "neli",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastat",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tagasi",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20438,7 +20438,7 @@
 						},
 						{
 							"word": "Londonis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20478,7 +20478,7 @@
 						},
 						{
 							"word": "EMil",
-							"ner_1": "B_EVENT",
+							"ner_1": "B-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20574,7 +20574,7 @@
 						},
 						{
 							"word": "MK-etapil",
-							"ner_1": "B_EVENT",
+							"ner_1": "B-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20592,7 +20592,7 @@
 						},
 						{
 							"word": "Austraalia",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20804,7 +20804,7 @@
 						},
 						{
 							"word": "Uus-Meremaa",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20864,7 +20864,7 @@
 						},
 						{
 							"word": "Venemaa",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20952,7 +20952,7 @@
 						},
 						{
 							"word": "Uus-Meremaad",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -20996,7 +20996,7 @@
 					"words": [
 						{
 							"word": "2005",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21008,13 +21008,13 @@
 						},
 						{
 							"word": "Euroopa",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Liidu",
-							"ner_1": "I_GPE",
+							"ner_1": "I-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21032,25 +21032,25 @@
 						},
 						{
 							"word": "heitkoguse",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "ühikutega",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "kauplemise",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "süsteemist",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21080,7 +21080,7 @@
 						},
 						{
 							"word": "ETS",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21210,13 +21210,13 @@
 						},
 						{
 							"word": "Pariisi",
-							"ner_1": "B_PROD",
-							"ner_2": "B_GPE",
+							"ner_1": "B-PROD",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "kliimaleppe",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21414,13 +21414,13 @@
 					"words": [
 						{
 							"word": "Euroopa",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Liit",
-							"ner_1": "I_GPE",
+							"ner_1": "I-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21444,13 +21444,13 @@
 						},
 						{
 							"word": "aastaks",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "2030",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21492,13 +21492,13 @@
 						},
 						{
 							"word": "43",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "%",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21516,13 +21516,13 @@
 						},
 						{
 							"word": "aastaga",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "2005",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21634,7 +21634,7 @@
 						},
 						{
 							"word": "2021–2030",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21670,13 +21670,13 @@
 						},
 						{
 							"word": "2015.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastast",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -21758,13 +21758,13 @@
 						},
 						{
 							"word": "EL",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Komisjoni",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21776,13 +21776,13 @@
 						},
 						{
 							"word": "ELi",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Nõukogu",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21794,13 +21794,13 @@
 						},
 						{
 							"word": "Euroopa",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Parlamendi",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21834,13 +21834,13 @@
 						},
 						{
 							"word": "ELi",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Nõukogu",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21858,19 +21858,19 @@
 						},
 						{
 							"word": "2017.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aasta",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "juulist",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21918,13 +21918,13 @@
 						},
 						{
 							"word": "Euroopa",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Parlamendiga",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -21982,13 +21982,13 @@
 						},
 						{
 							"word": "Euroopa",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Liidu",
-							"ner_1": "I_GPE",
+							"ner_1": "I-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -22024,7 +22024,7 @@
 						},
 						{
 							"word": "Eestist",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -22166,7 +22166,7 @@
 						},
 						{
 							"word": "ELi",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -22196,7 +22196,7 @@
 						},
 						{
 							"word": "Norra",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -22208,7 +22208,7 @@
 						},
 						{
 							"word": "Island",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -22220,7 +22220,7 @@
 						},
 						{
 							"word": "Liechtenstein",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -22330,13 +22330,13 @@
 						},
 						{
 							"word": "aastal",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "2017",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -22396,19 +22396,19 @@
 						},
 						{
 							"word": "5",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aasta",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "pärast",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -22508,13 +22508,13 @@
 						},
 						{
 							"word": "57",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "%",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -22538,13 +22538,13 @@
 						},
 						{
 							"word": "43",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "%",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -23430,7 +23430,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -23696,13 +23696,13 @@
 						},
 						{
 							"word": "2019.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastast",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -23966,7 +23966,7 @@
 					"words": [
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -23996,7 +23996,7 @@
 						},
 						{
 							"word": "2021–2030",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -24084,7 +24084,7 @@
 						},
 						{
 							"word": "2013–2020",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -24096,7 +24096,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -24298,19 +24298,19 @@
 						},
 						{
 							"word": "artikkel",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "10c",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "mehhanism",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -24372,13 +24372,13 @@
 					"words": [
 						{
 							"word": "Aastatel",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "2013–2016",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -24414,19 +24414,19 @@
 						},
 						{
 							"word": "17",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "miljonit",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "eurot",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -24466,7 +24466,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -24578,13 +24578,13 @@
 						},
 						{
 							"word": "5",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "eurot",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -24772,7 +24772,7 @@
 					"words": [
 						{
 							"word": "Eestis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -25108,13 +25108,13 @@
 						},
 						{
 							"word": "2",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "%",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -25286,13 +25286,13 @@
 						},
 						{
 							"word": "aastal",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "2013",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -25304,19 +25304,19 @@
 						},
 						{
 							"word": "60",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "%",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "ELi",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -25362,7 +25362,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -25374,7 +25374,7 @@
 						},
 						{
 							"word": "Läti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -25386,7 +25386,7 @@
 						},
 						{
 							"word": "Leedu",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -25402,7 +25402,7 @@
 					"words": [
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -25426,13 +25426,13 @@
 						},
 						{
 							"word": "2,78",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "%",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -25480,7 +25480,7 @@
 						},
 						{
 							"word": "2021–2030",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -26114,7 +26114,7 @@
 					"words": [
 						{
 							"word": "Eestis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -26144,25 +26144,25 @@
 						},
 						{
 							"word": "riigikogu",
-							"ner_1": "B_ORG",
-							"ner_2": "B_ORG",
+							"ner_1": "B-ORG",
+							"ner_2": "B-ORG",
 							"ner_3": "O"
 						},
 						{
 							"word": "EL",
-							"ner_1": "I_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "I-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "asjade",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "komisjon",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -26464,7 +26464,7 @@
 						},
 						{
 							"word": "Artur",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -26476,13 +26476,13 @@
 						},
 						{
 							"word": "Delfi",
-							"ner_1": "B_PROD",
-							"ner_2": "B_ORG",
+							"ner_1": "B-PROD",
+							"ner_2": "B-ORG",
 							"ner_3": "O"
 						},
 						{
 							"word": "Naistekas",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -26828,7 +26828,7 @@
 						},
 						{
 							"word": "Lasnamäel",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -26840,7 +26840,7 @@
 						},
 						{
 							"word": "Mustamäel",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -26858,7 +26858,7 @@
 						},
 						{
 							"word": "Koplis",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -27138,7 +27138,7 @@
 						},
 						{
 							"word": "hollikas",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -29152,7 +29152,7 @@
 					"words": [
 						{
 							"word": "Tallinn",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31160,13 +31160,13 @@
 					"words": [
 						{
 							"word": "Rimo",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Hunt",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31236,7 +31236,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31254,13 +31254,13 @@
 						},
 						{
 							"word": "Rimo",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Hunt",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31306,19 +31306,19 @@
 						},
 						{
 							"word": "mõni",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aasta",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tagasi",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31342,7 +31342,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31372,13 +31372,13 @@
 						},
 						{
 							"word": "Rimo",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Hunt",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31508,13 +31508,13 @@
 					"words": [
 						{
 							"word": "FC",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Levadia",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31526,13 +31526,13 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_TITLE",
-							"ner_2": "B_GPE",
+							"ner_1": "B-TITLE",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "meistri",
-							"ner_1": "I_TITLE",
+							"ner_1": "I-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31550,7 +31550,7 @@
 						},
 						{
 							"word": "Hunt",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31598,7 +31598,7 @@
 						},
 						{
 							"word": "eurosarjas",
-							"ner_1": "B_EVENT",
+							"ner_1": "B-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31644,7 +31644,7 @@
 					"words": [
 						{
 							"word": "Eile",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31738,19 +31738,19 @@
 						},
 						{
 							"word": "paar",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastat",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tagasi",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -31802,13 +31802,13 @@
 					"words": [
 						{
 							"word": "Rimo",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Hunt",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -32086,7 +32086,7 @@
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -32186,7 +32186,7 @@
 						},
 						{
 							"word": "Haapsallu",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -32648,13 +32648,13 @@
 						},
 						{
 							"word": "Kaitseliit",
-							"ner_1": "B_ORG",
-							"ner_2": "B_ORG",
+							"ner_1": "B-ORG",
+							"ner_2": "B-ORG",
 							"ner_3": "O"
 						},
 						{
 							"word": "Kalevi",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -32684,14 +32684,14 @@
 						},
 						{
 							"word": "M.C.",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Tallinn",
-							"ner_1": "I_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "I-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
@@ -32942,7 +32942,7 @@
 						},
 						{
 							"word": "Tartu",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -32954,7 +32954,7 @@
 						},
 						{
 							"word": "Haapsalu",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -32966,7 +32966,7 @@
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -33030,7 +33030,7 @@
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -33088,19 +33088,19 @@
 						},
 						{
 							"word": "M.C.",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "I_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "I-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "mänedžer",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -33112,13 +33112,13 @@
 						},
 						{
 							"word": "Toomas",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Wilson",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -33142,13 +33142,13 @@
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Kalevis",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -33206,7 +33206,7 @@
 						},
 						{
 							"word": "Levadiasse",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -33222,7 +33222,7 @@
 					"words": [
 						{
 							"word": "Levadiaga",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -34536,7 +34536,7 @@
 					"words": [
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -35010,7 +35010,7 @@
 					"words": [
 						{
 							"word": "Levadia",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -35180,19 +35180,19 @@
 						},
 						{
 							"word": "M.C.",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "I_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "I-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "mänedžeriga",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -35378,13 +35378,13 @@
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Kalevisse",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -35748,7 +35748,7 @@
 						},
 						{
 							"word": "Sergei",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -35760,7 +35760,7 @@
 						},
 						{
 							"word": "Zenjov",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -35778,7 +35778,7 @@
 						},
 						{
 							"word": "Henri",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -35790,7 +35790,7 @@
 						},
 						{
 							"word": "Anier",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -36688,7 +36688,7 @@
 					"words": [
 						{
 							"word": "Saturni",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -36852,7 +36852,7 @@
 					"words": [
 						{
 							"word": "Uraani",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -40950,19 +40950,19 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_EVENT",
-							"ner_2": "B_GPE",
+							"ner_1": "B-EVENT",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "mee",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "päevad",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -40980,37 +40980,37 @@
 						},
 						{
 							"word": "9.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "ja",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "10.",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "märtsil",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Pirita",
-							"ner_1": "B_LOC",
-							"ner_2": "B_GPE",
+							"ner_1": "B-LOC",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Lillepaviljonis",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -41068,25 +41068,25 @@
 						},
 						{
 							"word": "Viimsi",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Elustiilikeskuse",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Harmoonikum",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "rajaja",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -41098,19 +41098,19 @@
 						},
 						{
 							"word": "eestvedaja",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Ene",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Lill",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -41150,13 +41150,13 @@
 						},
 						{
 							"word": "Viimsi",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Teataja",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -41202,19 +41202,19 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_EVENT",
-							"ner_2": "B_GPE",
+							"ner_1": "B-EVENT",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "mee",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "päevade",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -41300,7 +41300,7 @@
 						},
 						{
 							"word": "meepäevadel",
-							"ner_1": "B_EVENT",
+							"ner_1": "B-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -41614,31 +41614,31 @@
 						},
 						{
 							"word": "1790.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastal",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tsaari",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "nõuniku",
-							"ner_1": "I_TITLE",
+							"ner_1": "I-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Tumanski",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -42180,7 +42180,7 @@
 					"words": [
 						{
 							"word": "Meepäevad",
-							"ner_1": "B_EVENT",
+							"ner_1": "B-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -42630,7 +42630,7 @@
 						},
 						{
 							"word": "meepäevadel",
-							"ner_1": "B_EVENT",
+							"ner_1": "B-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -43978,7 +43978,7 @@
 						},
 						{
 							"word": "Hippokrates",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -44754,7 +44754,7 @@
 						},
 						{
 							"word": "Harmoonikumis",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -44784,13 +44784,13 @@
 						},
 						{
 							"word": "Mesimummu",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "mõnu",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -44862,19 +44862,19 @@
 						},
 						{
 							"word": "Pehmed",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "ja",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "karvased",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -45124,19 +45124,19 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Meetootjate",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Ühendus",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -45148,25 +45148,25 @@
 						},
 						{
 							"word": "9.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "ja",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "10.",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "märtsil",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -45190,43 +45190,43 @@
 						},
 						{
 							"word": "kell",
-							"ner_1": "B_TIME",
+							"ner_1": "B-TIME",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "10-17",
-							"ner_1": "I_TIME",
+							"ner_1": "I-TIME",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Tallinnas",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Lillepaviljonis",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Pirita",
-							"ner_1": "B_LOC",
-							"ner_2": "B_GPE",
+							"ner_1": "B-LOC",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "tee",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "26",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -45244,25 +45244,25 @@
 						},
 						{
 							"word": "\"",
-							"ner_1": "B_EVENT",
+							"ner_1": "B-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Mesimagus",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "naistepäev",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "\"",
-							"ner_1": "I_EVENT",
+							"ner_1": "I-EVENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -45430,19 +45430,19 @@
 						},
 						{
 							"word": "mesinik",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Hinge",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Laur",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -45628,37 +45628,37 @@
 						},
 						{
 							"word": "Tartu",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Ülikooli",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Kliinikumi",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "arst-õppejõud",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Ilmar",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Särg",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -45992,7 +45992,7 @@
 						},
 						{
 							"word": "Reformierakonda",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -46086,25 +46086,25 @@
 						},
 						{
 							"word": "Riigikogu",
-							"ner_1": "B_ORG",
-							"ner_2": "B_ORG",
+							"ner_1": "B-ORG",
+							"ner_2": "B-ORG",
 							"ner_3": "O"
 						},
 						{
 							"word": "Erakondade",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Rahastamise",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Komisjon",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -46116,7 +46116,7 @@
 						},
 						{
 							"word": "Prokuratuur",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -46382,7 +46382,7 @@
 						},
 						{
 							"word": "Poola",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -46594,7 +46594,7 @@
 						},
 						{
 							"word": "Poolas",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -46776,7 +46776,7 @@
 					"words": [
 						{
 							"word": "TS",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -47376,7 +47376,7 @@
 						},
 						{
 							"word": "Eestis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -47598,7 +47598,7 @@
 						},
 						{
 							"word": "HTG",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -47610,7 +47610,7 @@
 						},
 						{
 							"word": "Esteve",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -47792,7 +47792,7 @@
 					"words": [
 						{
 							"word": "Vanasadamas",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -47964,7 +47964,7 @@
 						},
 						{
 							"word": "Araabia",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -48038,7 +48038,7 @@
 						},
 						{
 							"word": "Viimsi",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -49214,7 +49214,7 @@
 					"words": [
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -49448,7 +49448,7 @@
 					"words": [
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -49544,13 +49544,13 @@
 						},
 						{
 							"word": "tallinna",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "sadam",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -49724,7 +49724,7 @@
 						},
 						{
 							"word": "Kiil",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -50168,7 +50168,7 @@
 						},
 						{
 							"word": "Iirimaal",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -50386,13 +50386,13 @@
 						},
 						{
 							"word": "stenbocki",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "maja",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -50494,13 +50494,13 @@
 					"words": [
 						{
 							"word": "Ülo",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Veldre",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -50592,13 +50592,13 @@
 						},
 						{
 							"word": "Oa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tänava",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -50640,7 +50640,7 @@
 						},
 						{
 							"word": "linnavalitsus",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -50658,13 +50658,13 @@
 						},
 						{
 							"word": "Oa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "10c",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51102,7 +51102,7 @@
 						},
 						{
 							"word": "Tartu",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51152,7 +51152,7 @@
 					"words": [
 						{
 							"word": "Linnavalitsuse",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51164,13 +51164,13 @@
 						},
 						{
 							"word": "linnavolikogu",
-							"ner_1": "B_ORG",
-							"ner_2": "B_ORG",
+							"ner_1": "B-ORG",
+							"ner_2": "B-ORG",
 							"ner_3": "O"
 						},
 						{
 							"word": "revisjonikomisjonile",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51502,7 +51502,7 @@
 						},
 						{
 							"word": "Supilinna",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51524,13 +51524,13 @@
 					"words": [
 						{
 							"word": "2012.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aasta",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51554,43 +51554,43 @@
 						},
 						{
 							"word": "linnavalitsuse",
-							"ner_1": "B_ORG",
-							"ner_2": "B_ORG",
+							"ner_1": "B-ORG",
+							"ner_2": "B-ORG",
 							"ner_3": "O"
 						},
 						{
 							"word": "arhitektuuri-",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "ja",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "ehitusosakonna",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "juhataja",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Karin",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Raid",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51602,13 +51602,13 @@
 						},
 						{
 							"word": "Tartu",
-							"ner_1": "B_PROD",
-							"ner_2": "B_GPE",
+							"ner_1": "B-PROD",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Postimehes",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51620,7 +51620,7 @@
 						},
 						{
 							"word": "TPM",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51632,7 +51632,7 @@
 						},
 						{
 							"word": "2.3.2012",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51902,7 +51902,7 @@
 						},
 						{
 							"word": "linnavalitsuse",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51968,7 +51968,7 @@
 						},
 						{
 							"word": "riigikohtu",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -51990,13 +51990,13 @@
 					"words": [
 						{
 							"word": "Riigikohtu",
-							"ner_1": "B_ORG",
-							"ner_2": "B_ORG",
+							"ner_1": "B-ORG",
+							"ner_2": "B-ORG",
 							"ner_3": "O"
 						},
 						{
 							"word": "kriminaalkolleegium",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -52014,25 +52014,25 @@
 						},
 						{
 							"word": "2008.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aasta",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "14.",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "jaanuari",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -52192,19 +52192,19 @@
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Sanatooriumi",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tänava",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -52246,13 +52246,13 @@
 						},
 						{
 							"word": "Oa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tänavas",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -52472,13 +52472,13 @@
 						},
 						{
 							"word": "Oa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "10b/10c",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -52578,7 +52578,7 @@
 						},
 						{
 							"word": "linnavalitsus",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -52636,7 +52636,7 @@
 					"words": [
 						{
 							"word": "Tartu",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -52792,13 +52792,13 @@
 						},
 						{
 							"word": "Tartu",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "linnavalitsus",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -52816,13 +52816,13 @@
 						},
 						{
 							"word": "Oa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tänavas",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -52870,13 +52870,13 @@
 						},
 						{
 							"word": "33",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "protsenti",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -53004,7 +53004,7 @@
 					"words": [
 						{
 							"word": "Ehitusseaduse",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -53384,13 +53384,13 @@
 						},
 						{
 							"word": "Oa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "10c",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -53414,13 +53414,13 @@
 						},
 						{
 							"word": "Oa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "10b",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -53548,7 +53548,7 @@
 						},
 						{
 							"word": "linnavalitsuselt",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -53578,7 +53578,7 @@
 						},
 						{
 							"word": "linnavalitsus",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -53812,13 +53812,13 @@
 					"words": [
 						{
 							"word": "Oa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tänava",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -53954,7 +53954,7 @@
 						},
 						{
 							"word": "linnavalitsuse",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -54042,7 +54042,7 @@
 						},
 						{
 							"word": "Jupiterile",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -54194,7 +54194,7 @@
 						},
 						{
 							"word": "linnavalitsuse",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -54310,7 +54310,7 @@
 						},
 						{
 							"word": "linnavolikogu",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -54340,7 +54340,7 @@
 						},
 						{
 							"word": "linnavalitsuse",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -54428,7 +54428,7 @@
 						},
 						{
 							"word": "linnavalitsuse",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -54542,7 +54542,7 @@
 						},
 						{
 							"word": "linnavalitsus",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -54660,13 +54660,13 @@
 						},
 						{
 							"word": "Karin",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Raidi",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -54762,7 +54762,7 @@
 						},
 						{
 							"word": "linnavalitsus",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -54774,13 +54774,13 @@
 						},
 						{
 							"word": "Oa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "10b/10c",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -55242,7 +55242,7 @@
 						},
 						{
 							"word": "linnavalitsuse",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -55286,25 +55286,25 @@
 					"words": [
 						{
 							"word": "\"",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Paljas",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "kokk",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "\"",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -55334,19 +55334,19 @@
 						},
 						{
 							"word": "toidumisjonär",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Oliver",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -55362,13 +55362,13 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Oliver",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -55386,19 +55386,19 @@
 						},
 						{
 							"word": "James",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Trevor",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Oliver",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -55416,31 +55416,31 @@
 						},
 						{
 							"word": "Inglismaal",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "27.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "mail",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "1975.",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastal",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -55592,7 +55592,7 @@
 						},
 						{
 							"word": "Shutterstock",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -55990,13 +55990,13 @@
 						},
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Oliver",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56012,13 +56012,13 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Oliver",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56036,19 +56036,19 @@
 						},
 						{
 							"word": "James",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Trevor",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Oliver",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56066,31 +56066,31 @@
 						},
 						{
 							"word": "Inglismaal",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "27.",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "mail",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "1975.",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastal",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56344,19 +56344,19 @@
 						},
 						{
 							"word": "Westminister",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Cateringi",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "kolledžisse",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56420,7 +56420,7 @@
 						},
 						{
 							"word": "Prantsusmaale",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56436,7 +56436,7 @@
 					"words": [
 						{
 							"word": "Inglismaale",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56454,7 +56454,7 @@
 						},
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56466,19 +56466,19 @@
 						},
 						{
 							"word": "The",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Neal",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Streeti",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56530,13 +56530,13 @@
 						},
 						{
 							"word": "River",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Cafésse",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56572,13 +56572,13 @@
 						},
 						{
 							"word": "Rose",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Gray",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56590,13 +56590,13 @@
 						},
 						{
 							"word": "Ruth",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Rogersi",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56618,7 +56618,7 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56636,13 +56636,13 @@
 						},
 						{
 							"word": "River",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Cafés",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56726,7 +56726,7 @@
 						},
 						{
 							"word": "Jamiele",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56760,25 +56760,25 @@
 					"words": [
 						{
 							"word": "Telekokk",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Oliver",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Itaalias",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -56800,7 +56800,7 @@
 						},
 						{
 							"word": "ERR",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -56826,7 +56826,7 @@
 					"words": [
 						{
 							"word": "BBC",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56844,13 +56844,13 @@
 						},
 						{
 							"word": "River",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Cafesse",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -56996,7 +56996,7 @@
 						},
 						{
 							"word": "Jamiele",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57048,7 +57048,7 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57102,31 +57102,31 @@
 						},
 						{
 							"word": "\"",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "The",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Naked",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Chef",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "\"",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57186,13 +57186,13 @@
 						},
 						{
 							"word": "Alasti",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Kokk",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57238,7 +57238,7 @@
 						},
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57286,7 +57286,7 @@
 						},
 						{
 							"word": "Inglismaa",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57332,7 +57332,7 @@
 						},
 						{
 							"word": "Oliver",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57444,13 +57444,13 @@
 					"words": [
 						{
 							"word": "Aastal",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "2000",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57462,7 +57462,7 @@
 						},
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57474,7 +57474,7 @@
 						},
 						{
 							"word": "Sainsbury",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57560,7 +57560,7 @@
 						},
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57614,19 +57614,19 @@
 						},
 						{
 							"word": "kaks",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "miljonit",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "naela",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57696,7 +57696,7 @@
 						},
 						{
 							"word": "Itaalia",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57732,13 +57732,13 @@
 						},
 						{
 							"word": "Jamie's",
-							"ner_1": "B_ORG",
-							"ner_2": "B_PER",
+							"ner_1": "B-ORG",
+							"ner_2": "B-PER",
 							"ner_3": "O"
 						},
 						{
 							"word": "Italian",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57766,7 +57766,7 @@
 						},
 						{
 							"word": "Shutterstock",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -57792,13 +57792,13 @@
 					"words": [
 						{
 							"word": "Aastal",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "2005",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57810,7 +57810,7 @@
 						},
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -57986,7 +57986,7 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58128,7 +58128,7 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58192,7 +58192,7 @@
 						},
 						{
 							"word": "Suurbritannias",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58298,7 +58298,7 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58340,7 +58340,7 @@
 						},
 						{
 							"word": "USA",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58352,7 +58352,7 @@
 						},
 						{
 							"word": "Ühendkuningriikide",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58410,13 +58410,13 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Oliveri",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58438,7 +58438,7 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58644,7 +58644,7 @@
 						},
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58678,7 +58678,7 @@
 						},
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58778,7 +58778,7 @@
 					"words": [
 						{
 							"word": "Jamiel",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -58932,7 +58932,7 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -59298,7 +59298,7 @@
 					"words": [
 						{
 							"word": "Jamie",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -59494,7 +59494,7 @@
 						},
 						{
 							"word": "jamieoliver.com",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -59586,13 +59586,13 @@
 					"words": [
 						{
 							"word": "Aastal",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "2013",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -59652,7 +59652,7 @@
 						},
 						{
 							"word": "McDonald'si",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -59674,7 +59674,7 @@
 					"words": [
 						{
 							"word": "Oliver",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -59852,7 +59852,7 @@
 						},
 						{
 							"word": "Oliveri",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -59952,7 +59952,7 @@
 						},
 						{
 							"word": "Oliver",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -60144,25 +60144,25 @@
 						},
 						{
 							"word": "sotsiaaldemokraatide",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "esimehe",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Jevgeni",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Ossinovski",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -60180,7 +60180,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -60344,7 +60344,7 @@
 						},
 						{
 							"word": "Ossinovski",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -60900,7 +60900,7 @@
 						},
 						{
 							"word": "Ossinovski",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -60958,7 +60958,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -61006,7 +61006,7 @@
 						},
 						{
 							"word": "Ossinovski",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -61030,7 +61030,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -61258,7 +61258,7 @@
 						},
 						{
 							"word": "Aaduga",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -61322,7 +61322,7 @@
 						},
 						{
 							"word": "Aadu",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -61364,7 +61364,7 @@
 						},
 						{
 							"word": "Aaduga",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -61470,7 +61470,7 @@
 						},
 						{
 							"word": "Aadul",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -61688,7 +61688,7 @@
 						},
 						{
 							"word": "Aadu",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -61706,7 +61706,7 @@
 						},
 						{
 							"word": "Aadust",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -61752,7 +61752,7 @@
 						},
 						{
 							"word": "Ossinovski",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -61804,7 +61804,7 @@
 						},
 						{
 							"word": "Eesti",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -62222,7 +62222,7 @@
 						},
 						{
 							"word": "Facebooki",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -62246,7 +62246,7 @@
 						},
 						{
 							"word": "Ossinovski",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -62680,7 +62680,7 @@
 						},
 						{
 							"word": "Ossinovskile",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -63646,7 +63646,7 @@
 						},
 						{
 							"word": "8.12",
-							"ner_1": "B_TIME",
+							"ner_1": "B-TIME",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -64046,7 +64046,7 @@
 						},
 						{
 							"word": "8.12",
-							"ner_1": "B_TIME",
+							"ner_1": "B-TIME",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -64340,7 +64340,7 @@
 						},
 						{
 							"word": "8.12",
-							"ner_1": "B_TIME",
+							"ner_1": "B-TIME",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -64448,7 +64448,7 @@
 						},
 						{
 							"word": "8.12",
-							"ner_1": "B_TIME",
+							"ner_1": "B-TIME",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -64524,7 +64524,7 @@
 						},
 						{
 							"word": "Ossinovski",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -64570,7 +64570,7 @@
 						},
 						{
 							"word": "Ossinovski",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -64676,19 +64676,19 @@
 					"words": [
 						{
 							"word": "Dr",
-							"ner_1": "B_TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Martin",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Aher",
-							"ner_1": "I_PER",
+							"ner_1": "I-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -64836,25 +64836,25 @@
 						},
 						{
 							"word": "Mind",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "the",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Meaning",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "OÜ",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -65236,13 +65236,13 @@
 						},
 						{
 							"word": "Cambridge",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Soundworks",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -65388,13 +65388,13 @@
 						},
 						{
 							"word": "logitech",
-							"ner_1": "B_PROD",
-							"ner_2": "B_ORG",
+							"ner_1": "B-PROD",
+							"ner_2": "B-ORG",
 							"ner_3": "O"
 						},
 						{
 							"word": "Z-2300",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -65630,7 +65630,7 @@
 						},
 						{
 							"word": "Eestis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -65654,25 +65654,25 @@
 						},
 						{
 							"word": "Harman",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Kardon",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "SoundSticks",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "II",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -65684,25 +65684,25 @@
 						},
 						{
 							"word": "Altec",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Lansing",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "FX",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "6021",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -65876,7 +65876,7 @@
 						},
 						{
 							"word": "Apple",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -65910,7 +65910,7 @@
 					"words": [
 						{
 							"word": "Alteci",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -66022,7 +66022,7 @@
 						},
 						{
 							"word": "Microlab'i",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -66062,7 +66062,7 @@
 						},
 						{
 							"word": "SOLO",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -66074,7 +66074,7 @@
 						},
 						{
 							"word": "PRO",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -66120,7 +66120,7 @@
 						},
 						{
 							"word": "Defenderitega",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -66132,7 +66132,7 @@
 						},
 						{
 							"word": "Hiina",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -67562,13 +67562,13 @@
 						},
 						{
 							"word": "Denon",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "PMA-500AE",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -67724,13 +67724,13 @@
 						},
 						{
 							"word": "Raadio",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Maniat",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -67772,7 +67772,7 @@
 						},
 						{
 							"word": "Tallinnas",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -68008,13 +68008,13 @@
 						},
 						{
 							"word": "179-230",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "dollarit",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -68072,19 +68072,19 @@
 						},
 						{
 							"word": "230",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "*",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "12kr",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -68102,7 +68102,7 @@
 						},
 						{
 							"word": "1usd",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -68132,13 +68132,13 @@
 						},
 						{
 							"word": "18",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "%",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -68180,13 +68180,13 @@
 						},
 						{
 							"word": "5",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "%",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -68210,7 +68210,7 @@
 						},
 						{
 							"word": "3,4k",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -68266,13 +68266,13 @@
 						},
 						{
 							"word": "YAMAHA",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "HS50Marvata",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -68334,7 +68334,7 @@
 						},
 						{
 							"word": "2,2k",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -68368,7 +68368,7 @@
 						},
 						{
 							"word": "denon",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -69734,7 +69734,7 @@
 						},
 						{
 							"word": "Philips",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -69794,7 +69794,7 @@
 						},
 						{
 							"word": "http://www.6moons.com/audioreviews/onicimpact/t.html",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -69932,13 +69932,13 @@
 						},
 						{
 							"word": "Microlab",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "PRO-1",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -70088,7 +70088,7 @@
 						},
 						{
 							"word": "soudshopi",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -70162,7 +70162,7 @@
 					"words": [
 						{
 							"word": "google",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -70268,7 +70268,7 @@
 						},
 						{
 							"word": "Tartus",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -70568,13 +70568,13 @@
 						},
 						{
 							"word": "1",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "%",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -70628,13 +70628,13 @@
 						},
 						{
 							"word": "0,0xx",
-							"ner_1": "B_PERCENT",
+							"ner_1": "B-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "%",
-							"ner_1": "I_PERCENT",
+							"ner_1": "I-PERCENT",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -71134,7 +71134,7 @@
 						},
 						{
 							"word": "s90-tega",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -71210,7 +71210,7 @@
 						},
 						{
 							"word": "s90-tega",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -71360,7 +71360,7 @@
 						},
 						{
 							"word": "s90",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -71618,13 +71618,13 @@
 						},
 						{
 							"word": "Denoni",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "PMA-500AE",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -71760,7 +71760,7 @@
 						},
 						{
 							"word": "PMA-700AE",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -71964,7 +71964,7 @@
 						},
 						{
 							"word": "lõunakas",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -72036,7 +72036,7 @@
 						},
 						{
 							"word": "http://www.plussmiinus.ee/ee/elutuba...aata=MCD716/12",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -72050,37 +72050,37 @@
 					"words": [
 						{
 							"word": "teisipäev",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": ",",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "jaanuar",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "17",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": ",",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "2012",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -72354,7 +72354,7 @@
 						},
 						{
 							"word": "kõrvemaa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77018,7 +77018,7 @@
 					"words": [
 						{
 							"word": "Kõrvemaa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77320,7 +77320,7 @@
 					"words": [
 						{
 							"word": "Täna",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77332,7 +77332,7 @@
 						},
 						{
 							"word": "pühapäeval",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77362,25 +77362,25 @@
 						},
 						{
 							"word": "Õru",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "valla",
-							"ner_1": "I_GPE",
+							"ner_1": "I-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Autosan",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "H9-20",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77462,7 +77462,7 @@
 					"words": [
 						{
 							"word": "Autosan",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77480,25 +77480,25 @@
 						},
 						{
 							"word": "Vanatehnika",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "varjupaiga",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Punases",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "raamatus",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77516,13 +77516,13 @@
 						},
 						{
 							"word": "VKG",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Autosan",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77562,13 +77562,13 @@
 					"words": [
 						{
 							"word": "Õru",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Autosan",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77586,7 +77586,7 @@
 						},
 						{
 							"word": "Eestis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77610,7 +77610,7 @@
 						},
 						{
 							"word": "Autosan",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77632,7 +77632,7 @@
 						},
 						{
 							"word": "juunis",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77674,7 +77674,7 @@
 						},
 						{
 							"word": "Autosan",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77738,19 +77738,19 @@
 						},
 						{
 							"word": "10",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "000",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "EEK",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -77994,7 +77994,7 @@
 						},
 						{
 							"word": "Järva-Jaani",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -78012,7 +78012,7 @@
 						},
 						{
 							"word": "Eestis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -78024,7 +78024,7 @@
 						},
 						{
 							"word": "Ida-Euroopa",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -78070,7 +78070,7 @@
 						},
 						{
 							"word": "Järva-Jaani",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -78356,7 +78356,7 @@
 						},
 						{
 							"word": "Autosani",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -78426,7 +78426,7 @@
 						},
 						{
 							"word": "Autosanist",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -78450,7 +78450,7 @@
 						},
 						{
 							"word": "http://fotoalbum.ee/photos/Albu/sets/223467",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -78688,13 +78688,13 @@
 						},
 						{
 							"word": "LAZ",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "697R",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -78846,13 +78846,13 @@
 						},
 						{
 							"word": "30000",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "krooni",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -78972,19 +78972,19 @@
 						},
 						{
 							"word": "4-5",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aasta",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "eestki",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79000,7 +79000,7 @@
 					"words": [
 						{
 							"word": "Regardman",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79122,19 +79122,19 @@
 						},
 						{
 							"word": "4-5",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aasta",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "eestki",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79474,13 +79474,13 @@
 						},
 						{
 							"word": "30000",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": ".-",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79574,13 +79574,13 @@
 						},
 						{
 							"word": "30",
-							"ner_1": "B_MONEY",
+							"ner_1": "B-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tonnise",
-							"ner_1": "I_MONEY",
+							"ner_1": "I-MONEY",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79598,7 +79598,7 @@
 						},
 						{
 							"word": "täna",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79610,19 +79610,19 @@
 						},
 						{
 							"word": "viis",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastat",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tagasi",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79650,7 +79650,7 @@
 						},
 						{
 							"word": "LAZi",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79680,7 +79680,7 @@
 						},
 						{
 							"word": "Jõgeval",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79692,7 +79692,7 @@
 						},
 						{
 							"word": "LAZ",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79808,7 +79808,7 @@
 						},
 						{
 							"word": "kevadel",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79884,7 +79884,7 @@
 						},
 						{
 							"word": "LAZ",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -79902,13 +79902,13 @@
 						},
 						{
 							"word": "Väike-Maarja",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "Päästekoolis",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80054,19 +80054,19 @@
 					"words": [
 						{
 							"word": "Mõned",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "päevad",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "tagasi",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80084,19 +80084,19 @@
 						},
 						{
 							"word": "Kuusalu",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "vallas",
-							"ner_1": "I_GPE",
+							"ner_1": "I-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Pudisool",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80108,7 +80108,7 @@
 						},
 						{
 							"word": "TA-6",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80178,7 +80178,7 @@
 						},
 						{
 							"word": "http://kodu.pri.ee/ta/?cat=24&action=baas&ID=260",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						}
@@ -80188,7 +80188,7 @@
 					"words": [
 						{
 							"word": "Aspelund",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80206,7 +80206,7 @@
 						},
 						{
 							"word": "Viljandi",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80218,7 +80218,7 @@
 						},
 						{
 							"word": "Mustla",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80236,7 +80236,7 @@
 						},
 						{
 							"word": "PAZ-652",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80266,7 +80266,7 @@
 						},
 						{
 							"word": "eilse",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80544,7 +80544,7 @@
 						},
 						{
 							"word": "Järva-Jaanis",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80632,7 +80632,7 @@
 						},
 						{
 							"word": "J.-Jaani",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80708,7 +80708,7 @@
 						},
 						{
 							"word": "Ameerika",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80738,7 +80738,7 @@
 						},
 						{
 							"word": "PAZ-652",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80750,7 +80750,7 @@
 						},
 						{
 							"word": "-672",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80916,13 +80916,13 @@
 						},
 						{
 							"word": "Kirjanike",
-							"ner_1": "B_LOC",
+							"ner_1": "B-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "Maja",
-							"ner_1": "I_LOC",
+							"ner_1": "I-LOC",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80950,7 +80950,7 @@
 						},
 						{
 							"word": "LÜJ",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -80992,13 +80992,13 @@
 						},
 						{
 							"word": "82",
-							"ner_1": "B_DATE",
+							"ner_1": "B-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "aastal",
-							"ner_1": "I_DATE",
+							"ner_1": "I-DATE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -81010,7 +81010,7 @@
 						},
 						{
 							"word": "TRÜ",
-							"ner_1": "B_ORG",
+							"ner_1": "B-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -81062,7 +81062,7 @@
 						},
 						{
 							"word": "LÜJ",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -81300,19 +81300,19 @@
 						},
 						{
 							"word": "LIAZ",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "677",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
 						{
 							"word": "LÜJ",
-							"ner_1": "I_PROD",
+							"ner_1": "I-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -81336,13 +81336,13 @@
 						},
 						{
 							"word": "Iru",
-							"ner_1": "B_ORG",
-							"ner_2": "B_GPE",
+							"ner_1": "B-ORG",
+							"ner_2": "B-GPE",
 							"ner_3": "O"
 						},
 						{
 							"word": "töökojas",
-							"ner_1": "I_ORG",
+							"ner_1": "I-ORG",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -81386,7 +81386,7 @@
 					"words": [
 						{
 							"word": "motoblokk",
-							"ner_1": "B_PER",
+							"ner_1": "B-PER",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -81570,7 +81570,7 @@
 						},
 						{
 							"word": "imageshacki",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -81854,7 +81854,7 @@
 					"words": [
 						{
 							"word": "Imageshackis",
-							"ner_1": "B_PROD",
+							"ner_1": "B-PROD",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -82136,7 +82136,7 @@
 						},
 						{
 							"word": "eestimaa",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
@@ -82228,7 +82228,7 @@
 						},
 						{
 							"word": "Tallinna",
-							"ner_1": "B_GPE",
+							"ner_1": "B-GPE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
