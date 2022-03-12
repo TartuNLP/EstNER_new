@@ -8166,7 +8166,7 @@
 						},
 						{
 							"word": "pressiesindaja",
-							"ner_1": "I-TITLE",
+							"ner_1": "B-TITLE",
 							"ner_2": "O",
 							"ner_3": "O"
 						},
